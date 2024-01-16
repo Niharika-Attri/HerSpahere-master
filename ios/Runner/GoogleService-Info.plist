@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>341317037003-ca656clnvnfs8erg08pqaiq6hj04n7f7.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.341317037003-ca656clnvnfs8erg08pqaiq6hj04n7f7</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCBUmnVbg1VHcGzHYq1Vx3U8kuj2FOXG8I</string>
+	<key>GCM_SENDER_ID</key>
+	<string>341317037003</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.untitled1</string>
+	<key>PROJECT_ID</key>
+	<string>hersphere-3e41a</string>
+	<key>STORAGE_BUCKET</key>
+	<string>hersphere-3e41a.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:341317037003:ios:544fdb72c95ece7ed6e44e</string>
+</dict>
+</plist>
